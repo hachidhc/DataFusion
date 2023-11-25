@@ -1,0 +1,12 @@
+[submodule "RRPN"]
+	path = RRPN
+	url = https://github.com/mrnabati/RRPN.git
+[submodule "SAF-FCOS"]
+	path = SAF-FCOS
+	url = https://github.com/Singingkettle/SAF-FCOS.git
+[submodule "BIRANet"]
+	path = BIRANet
+	url = https://github.com/RituYadav92/Radar-RGB-Attentive-Multimodal-Object-Detection.git
+[submodule "CRF-Net"]
+	path = CRF-Net
+	url = https://github.com/TUMFTM/CameraRadarFusionNet.git
